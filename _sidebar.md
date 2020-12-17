@@ -3,7 +3,6 @@
 * 产品简介
   * [产品简介](/uedn-docker/jianjie/intro)
   * [产品优势](/uedn-docker/jianjie/youshi)
-  * [应用场景](/uedn-docker/jianjie/changjing)
 * 使用指南
   * [开通UEDN服务](/uedn-docker/guide/open)
   * [创建容器组](/uedn-docker/guide/open)
