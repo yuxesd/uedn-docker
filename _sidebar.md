@@ -6,6 +6,7 @@
   * [应用场景](/uedn/jianjie/changjing)
 * 使用指南
   * [开通UEDN服务](/uedn/guide/open)
-  * [创建容器组](/uedn/guide/create)
+  * [创建容器组](/uedn/guide/open)
+  * [容器组管理](/uedn/guide/guanli)
 * [产品价格](/uedn/price)    
 
